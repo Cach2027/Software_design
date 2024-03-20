@@ -1,1 +1,1 @@
-En esta carpeta se encuentrael primer taller
+En esta carpeta se encuentra el primer taller

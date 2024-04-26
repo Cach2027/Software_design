@@ -1,1 +1,1 @@
-En esta carpeta se encuentra el primer taller
+In this repository you will find the workshops of the software-modeling course

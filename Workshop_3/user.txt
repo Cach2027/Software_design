@@ -1,0 +1,1 @@
+User accessed trend data for 'new_user'new_user:new_password
